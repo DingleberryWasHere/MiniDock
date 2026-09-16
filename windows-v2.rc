@@ -1,0 +1,28 @@
+#include <winver.h>
+1 ICON "assets/minidock-v3.3.ico"
+1 VERSIONINFO
+FILEVERSION 0,3,4,0
+PRODUCTVERSION 0,3,4,0
+FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+FILEFLAGS 0
+FILEOS VOS_NT_WINDOWS32
+FILETYPE VFT_APP
+FILESUBTYPE 0
+BEGIN
+ BLOCK "StringFileInfo"
+ BEGIN
+  BLOCK "040904B0"
+  BEGIN
+   VALUE "FileDescription", "OPIA's Minidock\0"
+   VALUE "FileVersion", "0.3.4.0\0"
+   VALUE "InternalName", "OPIA's Minidock\0"
+   VALUE "OriginalFilename", "MiniDock.exe\0"
+   VALUE "ProductName", "OPIA's Minidock\0"
+   VALUE "ProductVersion", "0.3.4\0"
+  END
+ END
+ BLOCK "VarFileInfo"
+ BEGIN
+  VALUE "Translation", 0x0409, 1200
+ END
+END

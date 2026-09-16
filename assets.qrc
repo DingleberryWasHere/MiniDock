@@ -1,0 +1,33 @@
+<RCC>
+ <qresource prefix="/">
+  <file alias="icons/quick-desktop.png">assets/quick-desktop.png</file>
+  <file alias="icons/quick-recent.png">assets/quick-recent.png</file>
+  <file alias="icons/quick-pinned.png">assets/quick-pinned.png</file>
+  <file alias="icons/quick-installed.png">assets/quick-installed.png</file>
+  <file alias="icons/drop-app.png">assets/drop-app.png</file>
+
+  <file alias="licenses/phosphor.txt">assets/phosphor-LICENSE.txt</file>
+  <file alias="icons/appmark.png">assets/minidock-appmark-v3.3.png</file>
+  <file alias="icons/appmark-16.png">assets/minidock-appmark-v3.3-16.png</file>
+  <file alias="icons/appmark-20.png">assets/minidock-appmark-v3.3-20.png</file>
+  <file alias="icons/appmark-24.png">assets/minidock-appmark-v3.3-24.png</file>
+  <file alias="icons/appmark-32.png">assets/minidock-appmark-v3.3-32.png</file>
+  <file alias="icons/appmark-40.png">assets/minidock-appmark-v3.3-40.png</file>
+  <file alias="icons/appmark-48.png">assets/minidock-appmark-v3.3-48.png</file>
+  <file alias="icons/appmark-64.png">assets/minidock-appmark-v3.3-64.png</file>
+  <file alias="icons/appmark-128.png">assets/minidock-appmark-v3.3-128.png</file>
+  <file alias="icons/appmark-256.png">assets/minidock-appmark-v3.3-256.png</file>
+  <file alias="icons/explorer-modern.png">assets/explorer-modern.png</file>
+  <file alias="icons/recycle-modern.png">assets/recycle-modern.png</file>
+  <file alias="icons/files.png">assets/files-v2.png</file>
+  <file alias="icons/chrome.png">assets/chrome-v2.png</file>
+  <file alias="icons/discord.png">assets/discord-v2.png</file>
+  <file alias="icons/spotify.png">assets/spotify-v2.png</file>
+  <file alias="icons/steam.png">assets/steam-v2.png</file>
+  <file alias="icons/minecraft.png">assets/minecraft-v2.png</file>
+  <file alias="icons/template-1.png">assets/template-1-v2.png</file>
+  <file alias="icons/template-2.png">assets/template-2-v2.png</file>
+  <file alias="dock-shadow.png">assets/dock-shadow.png</file>
+  <file alias="wallpaper.jpg">assets/dusk-wallpaper.jpg</file>
+ </qresource>
+</RCC>
